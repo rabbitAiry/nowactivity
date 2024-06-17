@@ -1,0 +1,8 @@
+{
+  "name": "NowActivity",
+  "description": "Show the activity(event) at this moment from Calendar",
+  "uuid": "nowactivity@airy",
+  "shell-version": ["46"],
+  "version": 1,
+  "version-name": "1.0"
+}
